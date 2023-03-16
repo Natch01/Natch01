@@ -1,4 +1,4 @@
-## Opa, eu sou o Ryan, um estudante cursando SISTEMA DE INFORMAÇÃO.
+##                         RYAN DE OLIVEIRA
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Natch01&show_icons=true&theme=dracula)
