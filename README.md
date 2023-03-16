@@ -11,7 +11,7 @@
   <img align="center" alt="R-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="R-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="R-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="R-pic" height="150" style="border-radius:50px;" src="[https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676](https://64.media.tumblr.com/2272183e3e2c79716b3bd5432a94793e/191ff41ecaf1ea37-fa/s640x960/ede620513fbef3cf591cea328478b57bea497c14.gif)">
+  <img align="right" alt="R-pic" height="150" style="border-radius:50px;" src="[[https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676](https://64.media.tumblr.com/2272183e3e2c79716b3bd5432a94793e/191ff41ecaf1ea37-fa/s640x960/ede620513fbef3cf591cea328478b57bea497c14.gif)](https://i.imgur.com/zQwDohv.gif)">
 </div>
   
   ##
