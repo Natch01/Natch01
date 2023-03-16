@@ -1,15 +1,5 @@
 #    <p align="center" class="nome"><b>RYAN DE OLIVEIRA</b></p>
 
-<style>
-
-    .nome {
-
-        color: white;
-
-    }
-
-</style>
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Natch01&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Natch01&layout=compact&theme=dracula)](https://github.com/Natch01/github-readme-stats)
 
