@@ -2,7 +2,12 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Natch01&show_icons=true&theme=dracula)
-
+<foto>
+<fonte 
+  srcset= "https://github-readme-stats.vercel.app/api?nome de usuário = Natch01 & show_icons = true & theme = dark"
+  mídia= "(prefers-color-scheme: escuro)"/><fonte
+  srcset= "https://github-readme-stats.vercel.app/api?nome de usuário = Natch01 & show_icons = true"
+  mídia= "(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/><img src= "https://github-readme-stats.vercel.app/api?nome de usuário = Natch01 & show_icons = true" /></foto>
 
 
 
