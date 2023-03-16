@@ -2,7 +2,7 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Natch01&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/Natch01/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Natch01)](https://github.com/Natch01/github-readme-stats)
 
 
 <div style="display: inline_block"><br>
