@@ -3,14 +3,11 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Natch01&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Natch01&layout=compact&theme=dracula)](https://github.com/Natch01/github-readme-stats)
 
-> CURSANDO: SISTEMA DE INFORMAÇÃO.
+> Developer: ServiceNow.
 <div style="display: inline_block"><br>
   <img align="center" alt="R-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="R-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="R-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="R-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="R-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="R-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1067441830683218021/1085883235545907310/4945631d8fa80c47dfeda335e5f86980.jpg">
 </div>
   
   ##
