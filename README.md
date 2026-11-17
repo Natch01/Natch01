@@ -1,8 +1,5 @@
 #    <p align="center" class="nome"><b>RYAN DE OLIVEIRA</b></p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Natch01&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Natch01&layout=compact&theme=dracula)](https://github.com/Natch01/github-readme-stats)
-
 > Developer: ServiceNow.
 <div style="display: inline_block"><br>
   <img align="center" alt="R-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
